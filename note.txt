@@ -1,0 +1,21 @@
+// Search: terminal command
+
+# Một số lệh sử dụng với terminal
+- cd: Lệnh dùng để di chuyển cấp thư mục
+Ex: cd desktop, cd BaiTap
+
+- ls: Liệt kê tất cả các file và thư mục có trong thư mục hiện tại
+
+# Các câu lệnh của git:
+- git clone https://github.com/giabao2000/bc14-git.git
+=> tải source code từ github về máy tính
+
+- git status
+=> kiểm tra trạng thái của các file có sự thay đổi hoặc file mới
+
+- git add file_name
+=> Xác nhận thêm file này vào vùng staging
+- git add .
+-> Xác nhận tất cả các file có sự thay đổi hoặc file mới vào vùng staging
+
+-
