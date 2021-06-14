@@ -23,3 +23,18 @@ Ex: cd desktop, cd BaiTap
 
 - git push
 => Đẩy những thay đổi đã dc commit từ local respository => remote respository
+
+- git branch
+=> Hiển thị các branch hiện có
+
+- git checkout -b <branch-name>
+=> Tạo ra 1 branch mới từ branch hiện tại, sau khi tạo branch nó sẽ tự động chuyển sang branch mới
+
+- git push -u origni <branch-name>
+=> Thêm branch có tên <branch-name> vào branch trên github
+
+- git checkout <branch-name>
+=> Chuyển sang branch <branch-name>
+
+- git pull
+=> Dùng để lấy cái file có sự thay đổi hoặc thêm mới trên github về máy
