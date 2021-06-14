@@ -18,4 +18,8 @@ Ex: cd desktop, cd BaiTap
 - git add .
 -> Xác nhận tất cả các file có sự thay đổi hoặc file mới vào vùng staging
 
--
+-git commit -m "message"
+=> Commit những file đã thay đổi ở phân vùng staging, đưa vào phân vùng respository và kèm theo một message.
+
+- git push
+=> Đẩy những thay đổi đã dc commit từ local respository => remote respository
